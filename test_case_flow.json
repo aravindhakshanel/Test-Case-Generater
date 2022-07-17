@@ -1,0 +1,66 @@
+{
+    "Senario 1": {
+        "Submodule1": {
+            "Functionality1": {},
+            "Functionality2": {},
+            "Functionality3": {},
+            "Functionality4": {},
+            "Functionality5": {},
+            "Functionality6": {},
+            "Functionality7": {}
+        },
+        "Submodule2": {
+            "Functionality1": {},
+            "Functionality2": {},
+            "Functionality3": {},
+            "Functionality4": {},
+            "Functionality5": {}
+        },
+        "Submodule3": {}
+    },
+    "Senario 2": {
+        "Submodule1": {},
+        "Submodule2": {},
+        "Submodule3": {},
+        "Submodule4": {},
+        "Submodule5": {},
+        "Submodule6": {}
+    },
+    "Senario 3": {
+        "Submodule7": {},
+        "Submodule8": {},
+        "Submodule9": {}
+    },
+    "Senario 4": {
+        "Submodule1": {},
+        "Submodule2": {},
+        "Submodule3": {},
+        "Submodule4": {},
+        "Submodule5": {},
+        "Submodule6": {},
+        "Submodule7": {},
+        "Submodule8": {},
+        "Submodule9": {},
+        "Submodule10": {},
+        "Submodule11": {},
+        "Submodule12": {},
+        "Submodule13": {}
+    },
+    "Senario 5": {
+        "Submodule5": {},
+        "Submodule6": {},
+        "Submodule7": {},
+        "Submodule8": {},
+        "Submodule9": {}
+    },
+    "Senario 6": {
+        "Submodule15": {},
+        "Submodule16": {}
+    },
+    "Senario 7": {
+        "Submodule13": {},
+        "Submodule14": {},
+        "Submodule15": {},
+        "Submodule16": {}
+    }
+  }

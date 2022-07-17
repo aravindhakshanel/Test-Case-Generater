@@ -1,0 +1,35 @@
+{
+    "senaario1":{
+        "submodule1":{
+            "functionality1":{
+                "field1":{
+                    "allow":{
+                        "module":"module name"
+                    }
+                }
+            }
+        },
+        "submodule2":{
+
+            "function2":{
+                "field2":{
+                    "allow":{
+                        "tab":"tab1"
+                    }
+                }
+            },
+            "fuction3":{
+                "fiedl5":{
+                    "table":"Table1"
+                }
+            },
+            "function4":{
+                "field3":{
+                    "allow":{
+                        "checkbox":"check box1"
+                    }
+                }
+            }
+        }
+    }
+}
