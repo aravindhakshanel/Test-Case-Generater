@@ -1,0 +1,95 @@
+{
+  "Table1": {
+    "column": {
+      "Column1": {
+        "column value": "column 1 value",
+        "hyperlinked": "Account tearsheet",
+        "sort": "Yes",
+        "Search": "Yes",
+        "ag grid": "No",
+        "filter": "Yes",
+        "frozen column": "Yes",
+        "validation count": 2,
+        "validation1": "name->nam2",
+        "validation2": "test validation->2"
+      },
+      "Column2": {
+        "column value": "column 2 value",
+        "hyperlinked": "No",
+        "sort": "Yes",
+        "Search": "Yes",
+        "ag grid": "No",
+        "filter": "Yes",
+        "frozen column": "No",
+        "validation count": 1,
+        "validation1": "name->nam3"
+      },
+      "Column3": {
+        "column value": "column 3 value",
+        "hyperlinked": "No",
+        "sort": "Yes",
+        "Search": "Yes",
+        "ag grid": "No",
+        "filter": "Yes",
+        "frozen column": "No",
+        "validation count": 1,
+        "validation1": "name->nam4"
+      }
+    },
+    "rearrange column": "No",
+    "font": "Yes",
+    "search bar": "Yes",
+    "column visibility": "Yes",
+    "Pagination": "Yes",
+    "Show count": "Yes",
+    "Show filter": "Yes",
+    "Ag grid": "No",
+    "Period filter": "Yes"
+  },
+  "Table2": {
+    "column": {
+      "Column1": {
+        "column value": "column 1 value",
+        "hyperlinked": "No",
+        "sort": "Yes",
+        "Search": "No",
+        "ag grid": "Yes",
+        "filter": "Yes",
+        "frozen column": "Yes",
+        "validation count": 1,
+        "validation1": "name->nam5"
+      },
+      "Column2": {
+        "column value": "column 2 value",
+        "hyperlinked": "contact tearsheet",
+        "sort": "Yes",
+        "Search": "No",
+        "ag grid": "Yes",
+        "filter": "Yes",
+        "frozen column": "Yes",
+        "validation count": 1,
+        "validation1": "name->nam6"
+      },
+      "Column3": {
+        "column value": "column 3 value",
+        "hyperlinked": "No",
+        "sort": "Yes",
+        "Search": "No",
+        "ag grid": "Yes",
+        "filter": "Yes",
+        "frozen column": "No",
+        "validation count": 1,
+        "validation1": "name->nam7"
+      }
+    },
+    "rearrange column": "Yes",
+    "font": "No",
+    "search bar": "Yes",
+    "column visibility": "Yes",
+    "Pagination": "No",
+    "Show count": "No",
+    "Show filter": "No",
+    "Ag grid": "Yes",
+    "Period filter": "Yes"
+  }
+}

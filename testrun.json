@@ -6,6 +6,11 @@
                     "allow":{
                         "module":"module name"
                     }
+                },
+                "fiedl5":{
+                    "allow":{
+                        "confirmation":"confermation popup1"
+                    }
                 }
             }
         },
